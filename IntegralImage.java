@@ -1,11 +1,10 @@
-package A1Q2;
+
 
 /**
  * Represents an integer integral image, which allows the user to query the mean
  * value of an arbitrary rectangular subimage in O(1) time.  Uses O(n) memory,
  * where n is the number of pixels in the image.
  *
- * @author jameselder
  */
 public class IntegralImage {
 
