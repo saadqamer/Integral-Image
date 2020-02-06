@@ -1,8 +1,5 @@
-package A1Q2;
-
 /**
  * Tests the IntegralImage class.
- * @author jameselder
  */
 public class testIntegralImage {
 
